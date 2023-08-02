@@ -1,3 +1,3 @@
 # Generation Brasil
 
-Exercícios extras.
+Exercícios extras feitos em Java.
